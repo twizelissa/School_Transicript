@@ -1,3 +1,10 @@
 First name,Grades[out of 5]
 Elissa ,2
+<<<<<<< HEAD
 Belyse,2
+=======
+Emmanuel, 5
+Clarance,5
+Felix, 3
+Oreste, 5
+>>>>>>> f4438483700f83f200757ed4e80366bc60f6b908
